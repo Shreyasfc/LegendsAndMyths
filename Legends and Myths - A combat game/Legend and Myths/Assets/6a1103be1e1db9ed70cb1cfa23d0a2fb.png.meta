@@ -1,0 +1,297 @@
+fileFormatVersion: 2
+guid: de666e16e73bb514baae14147db0f8a9
+timeCreated: 1534402269
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: 6a1103be1e1db9ed70cb1cfa23d0a2fb_0
+    21300002: 6a1103be1e1db9ed70cb1cfa23d0a2fb_1
+    21300004: 6a1103be1e1db9ed70cb1cfa23d0a2fb_2
+    21300006: 6a1103be1e1db9ed70cb1cfa23d0a2fb_3
+    21300008: 6a1103be1e1db9ed70cb1cfa23d0a2fb_4
+    21300010: 6a1103be1e1db9ed70cb1cfa23d0a2fb_5
+    21300012: 6a1103be1e1db9ed70cb1cfa23d0a2fb_6
+    21300014: 6a1103be1e1db9ed70cb1cfa23d0a2fb_7
+    21300016: 6a1103be1e1db9ed70cb1cfa23d0a2fb_8
+    21300018: 6a1103be1e1db9ed70cb1cfa23d0a2fb_9
+    21300020: 6a1103be1e1db9ed70cb1cfa23d0a2fb_10
+    21300022: 6a1103be1e1db9ed70cb1cfa23d0a2fb_11
+    21300024: 6a1103be1e1db9ed70cb1cfa23d0a2fb_12
+    21300026: 6a1103be1e1db9ed70cb1cfa23d0a2fb_13
+    21300028: 6a1103be1e1db9ed70cb1cfa23d0a2fb_14
+    21300030: 6a1103be1e1db9ed70cb1cfa23d0a2fb_15
+    21300032: 6a1103be1e1db9ed70cb1cfa23d0a2fb_16
+    21300034: 6a1103be1e1db9ed70cb1cfa23d0a2fb_17
+    21300036: 6a1103be1e1db9ed70cb1cfa23d0a2fb_18
+    21300038: 6a1103be1e1db9ed70cb1cfa23d0a2fb_19
+    21300040: 6a1103be1e1db9ed70cb1cfa23d0a2fb_20
+    21300042: 6a1103be1e1db9ed70cb1cfa23d0a2fb_21
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: 6a1103be1e1db9ed70cb1cfa23d0a2fb_0
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 1289
+        width: 185
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 6a1103be1e1db9ed70cb1cfa23d0a2fb_1
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 1289
+        width: 185
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 6a1103be1e1db9ed70cb1cfa23d0a2fb_2
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1280
+        width: 181
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 6a1103be1e1db9ed70cb1cfa23d0a2fb_3
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 1285
+        width: 178
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 6a1103be1e1db9ed70cb1cfa23d0a2fb_4
+      rect:
+        serializedVersion: 2
+        x: 997
+        y: 1309
+        width: 176
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 6a1103be1e1db9ed70cb1cfa23d0a2fb_5
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 1040
+        width: 174
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 6a1103be1e1db9ed70cb1cfa23d0a2fb_6
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 1070
+        width: 169
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 6a1103be1e1db9ed70cb1cfa23d0a2fb_7
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 1070
+        width: 174
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 6a1103be1e1db9ed70cb1cfa23d0a2fb_8
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 1070
+        width: 176
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 6a1103be1e1db9ed70cb1cfa23d0a2fb_9
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 1070
+        width: 178
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 6a1103be1e1db9ed70cb1cfa23d0a2fb_10
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 756
+        width: 181
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 6a1103be1e1db9ed70cb1cfa23d0a2fb_11
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 756
+        width: 185
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 6a1103be1e1db9ed70cb1cfa23d0a2fb_12
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 756
+        width: 181
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 6a1103be1e1db9ed70cb1cfa23d0a2fb_13
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 756
+        width: 178
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 6a1103be1e1db9ed70cb1cfa23d0a2fb_14
+      rect:
+        serializedVersion: 2
+        x: 997
+        y: 756
+        width: 176
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 6a1103be1e1db9ed70cb1cfa23d0a2fb_15
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 442
+        width: 174
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 6a1103be1e1db9ed70cb1cfa23d0a2fb_16
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 442
+        width: 169
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 6a1103be1e1db9ed70cb1cfa23d0a2fb_17
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 412
+        width: 174
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 6a1103be1e1db9ed70cb1cfa23d0a2fb_18
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 367
+        width: 176
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 6a1103be1e1db9ed70cb1cfa23d0a2fb_19
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 343
+        width: 178
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 6a1103be1e1db9ed70cb1cfa23d0a2fb_20
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 24
+        width: 181
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 6a1103be1e1db9ed70cb1cfa23d0a2fb_21
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 33
+        width: 185
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
