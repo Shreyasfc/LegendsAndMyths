@@ -11,7 +11,7 @@ public class AI_and_collision : MonoBehaviour {
 		public GameObject PlayerBody;
 		public GameObject PlayerMainFrame;
 		Animator Playeranim;
-		public bool Vlad = false;
+		public bool Hittruefinder = false;
 		public float Robinspeed = 7f;
 		public float AIForce = 10f;
 		public float Playerforce = 7f;
@@ -45,7 +45,7 @@ public class AI_and_collision : MonoBehaviour {
 		
 	
 		
-		if (Playeranim.GetBool ("FT_Attack") == true && Vlad == true) 
+		if (Playeranim.GetBool ("FT_Attack") == true && Hittruefinder == true) 
 		{
 		HealthScript_1.health -= 3f;
 		AIanim.SetBool ("RC_Attack", false);
@@ -59,7 +59,7 @@ public class AI_and_collision : MonoBehaviour {
 		
 		} 
 		
-		else if (Playeranim.GetBool ("FT_Attack") == false && Vlad == true)
+		else if (Playeranim.GetBool ("FT_Attack") == false && Hittruefinder == true)
 		{
 		AIanim.SetBool ("RC_Hurt", false);
 		hittext.SetActive (false);
@@ -159,12 +159,12 @@ public class AI_and_collision : MonoBehaviour {
 	
 	void OnCollisionEnter(Collision col) 
 		{
-		Vlad = true;
+		Hittruefinder = true;
 		}
 		
 	void OnCollisionExit (Collision col) 
 		{
-		Vlad = false;
+		Hittruefinder = false;
 		}
 		
 		
