@@ -48,7 +48,3 @@ This project is open-source and available under the [MIT License](LICENSE).
 ## 🤝 Contributing
 
 Contributions are welcome! Please fork the repository and submit a pull request for any enhancements or bug fixes.
-
----
-
-Feel free to customize this README further to include more specific details about the game's mechanics, storyline, or development process. 
